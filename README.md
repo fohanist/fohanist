@@ -16,7 +16,7 @@ Recently, I am studying basic computer knowledge and algorithms, CI/CD, Linux, e
 ***
 
 ### 안녕하세요. 저는 홍수민입니다. 🧑🏻‍💻
-### 사용자에게 자연스럽게 사용될 수 있는 프로덕트를 만드는 개발자압니다.
+### 사용자에게 자연스럽게 사용될 수 있는 프로덕트를 만드는 개발자입니다.
 저는 지난 <strong>2년</strong> 동안 학생 창업팀에서 활동했습니다. 
 
 # About

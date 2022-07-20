@@ -1,23 +1,7 @@
-### Hi I'm Hong Sumin 🧑🏻‍💻
-### A developer who makes products that users can use naturally.
-Experience startups in the last <strong>two years</strong>. 
-
-# About
-
-I started development by starting a startup. I studied HTML, CSS, JavaScript, and React to create my first project, the newsletter platform. Express and PostgreSQL were used for server configuration. The project was completed, but unfortunately, it was not used as the project was pivoted.
-
-Afterwards, I worked on a project to select malicious comments on YouTube and help with legal problems. I led various development projects such as Chrome Extension, Electron, and website composition, and completed most of the planned functions.
-
-After quitting the student start-up team startup, it developed a site that visualizes data from startups that carry out data-related businesses. At this time, TypeScript, React, and Echart were used.
-
-I am currently a senior at Hanyang University located in Seoul. I aim for full-stack development, and I mainly use JavaScript for our development products.
-Recently, I am studying basic computer knowledge and algorithms, CI/CD, Linux, etc.
-
 ***
 
-### 안녕하세요. 저는 홍수민입니다. 🧑🏻‍💻
-### 사용자에게 자연스럽게 사용될 수 있는 프로덕트를 만드는 개발자입니다.
-저는 지난 <strong>2년</strong> 동안 학생 창업팀에서 활동했습니다. 
+### JavaScript 개발자 홍수민입니다. 🧑🏻‍💻
+### 개발의 가치를 전달하기 위해 개발 교육이라는 분야에서 일하고 있습니다.
 
 # About
 
@@ -27,8 +11,7 @@ Recently, I am studying basic computer knowledge and algorithms, CI/CD, Linux, e
 
 학생 창업팀 스타트업을 그만둔 뒤 데이터 관련 사업을 수행하는 스타트업의 데이터를 시각화하는 사이트를 개발했습니다. 이때 TypeScript, React, Echart가 사용되었습니다.
 
-현재는 서울에 위치한 한양대학교 4학년에 재학 중입니다. 풀스택 개발을 지향하며, 개발 프로덕트에는 JavaScript를 주로 사용합니다.
-최근에는 컴퓨터 기본 지식과 알고리즘, CI/CD, Linux 등의 공부를 진행하고 있습니다.
+현재는 엘리스(Elice)에서 테크니컬 콘텐트 디벨로퍼로 일하고 있습니다. 
 
 
 # TECH
